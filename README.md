@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrk-dev&show_icons=true&locale=en" alt="chrk-dev" /></p>
 
-[snake gif](https://github.com/chrk-Dev/chrk-Dev/blob/output/github-contribution-grid-snake.gif)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrk-dev&" alt="chrk-dev" /></p>
